@@ -1,0 +1,7 @@
+<?php
+
+$y="Hello Bangladesh";
+
+echo substr($y,-4);
+echo PHP_EOL;
+echo strlen($y);
